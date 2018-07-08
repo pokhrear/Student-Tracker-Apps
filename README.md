@@ -1,0 +1,1 @@
+This is simple Student treacker file connecting MYSQL with JSP and Servlet. The java MVC Model.
